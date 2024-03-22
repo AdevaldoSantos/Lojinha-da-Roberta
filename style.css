@@ -65,7 +65,7 @@ h1 {
 @media (max-width: 520px) {
     .section {
         display: grid; 
-        align-content: end;
+        align-content: center;
         justify-content: stretch;
     }
 }
